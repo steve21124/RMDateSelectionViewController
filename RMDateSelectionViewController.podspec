@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.screenshots  = "http://cooperrs.github.io/RMDateSelectionViewController/Images/Screen-Portrait.png", "http://cooperrs.github.io/RMDateSelectionViewController/Images/Screen-Landscape.png", "http://cooperrs.github.io/RMDateSelectionViewController/Images/Screen-Portrait-Black.png"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "CooperRS" => "CooperRS@yasit.net" }
-  s.source       = { :git => "https://github.com/CooperRS/RMDateSelectionViewController.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/CooperRS/RMDateSelectionViewController.git" }
   s.source_files = 'RMDateSelectionViewController/*'
   s.resources    = 'RMDateSelectionViewController/*.lproj'
   s.platform     = :ios, '7.0'
